@@ -2113,7 +2113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5731397c90a304f42bbea58f6d5d75b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpForce: 300
+  jumpForce: 2
   reggiebody: {fileID: 2132785044}
 --- !u!136 &2132785046
 CapsuleCollider:
